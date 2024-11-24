@@ -50,7 +50,7 @@ This project demonstrates a **non-inverting operational amplifier (op-amp) pream
 ---
 
 ## **Circuit Schematic**
-![Circuit Schematic](/mic_preamp_schematic.png.png)
+![Circuit Schematic](/mic_preamp_schematic.png)
 
 ---
 
